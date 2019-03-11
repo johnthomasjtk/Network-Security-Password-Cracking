@@ -49,21 +49,4 @@ HINT: Use getoptProgram output
 • E.g.‘allcrackedpasswords.txt’ will
 contains a list of all cracked passwords in the format
 
-username:passwordProgramming Assignment-1 Contd.
 
-Program must :
-
-• Be indented & documented properly.
-
-• Be written entirely by yourself
-
-• Use proper coding standards – if you don’t know
-what it is – google it. 
-
-• Not invoke external programs
-
-• Not use external libraries other than GNU libc and –
-lcrypt
-
-• Compile and run on a standard installation of
-Ubuntu
